@@ -1,2 +1,3 @@
 # obico-qyapi
-这是一个obico中企业微信的设置说明
+qixc
+这是一个obico中 企业微信消息通知的设置说明
